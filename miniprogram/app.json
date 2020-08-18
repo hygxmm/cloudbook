@@ -1,0 +1,50 @@
+{
+  "entryPagePath": "pages/home/home",
+  "pages": [
+    "pages/home/home",
+    "pages/category/category",
+    "pages/book/book",
+    "pages/center/center"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "亿书会友",
+    "navigationBarTextStyle": "black"
+  },
+  "tabbar": {
+    "color": "",
+    "selectedColor": "",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "",
+        "text": "",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "",
+        "text": "",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "",
+        "text": "",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "",
+        "text": "",
+        "iconPath": "",
+        "selectedIconPath": ""
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
